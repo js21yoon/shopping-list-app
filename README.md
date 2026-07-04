@@ -1,1 +1,14 @@
-IyBTaG9wcGluZyBMaXN0IEFwcAoKqrDrsIQg7ISg7Zi47Yq4IOydtOuwgOsjIOyVoOyLnCDsl4bshLzsnbTrjIDri6QuIOuMoOuPhOydmCDshJzrsJTri4jsl4gg67mE65OcIOuPhCDsl4bshLzsnbTrjIDri6QuIOuLpOydvOyaqe2VmOyngOyGjOyEnCDrsJTro5wg7Iuk7ZWJ65Cp64uI64ukLgoKIyMg6riw64WlCi0g7ZWc66qp7Iia66C0IChhZGQpCi0g7ZWc66qpIOyytOu2geydtCAoY2hlY2spCi0g7ZWc66qpIOyCrOyggAotIOyftOujjCDthq3sm5Ag7Kek67iM7ZeQIOyEuOugpCwg7Yq467Cg65WFCi0gYGxvY2FsU3RvcmFnZWDsl6wg7J2864KI64qUIOuPhOydtOtLryDsoIzsp4Ag67aB6rOgLCDrjIDrjIDsnbwg7JeF7J2M64uI67CxCi0g7JiE7YOA65Ok7JeG7Iq6IOyngOyGjSAo7Yq467Cg7JikIOyLnOyKteqzoOydmCDrhY0g6riw64WlKQoKIyMg7Iuk7ZWJ67CgCiogYHNob3BwaW5nLWxpc3QuaHRtbGDsnbwg67mE65OcIOyImOyzoCDsnbTsp4jsl4gg7YyM67mE7ZW07YSw67aA6riw7JqULgo=
+# Shopping List App
+
+간단한 쇼핑 리스트 웹 앱입니다. 별도의 서버나 빌드 도구 없이 브라우저에서 바로 실행됩니다.
+
+## 기능
+- 항목 추가 (add)
+- 항목 체크 (check)
+- 항목 삭제
+- 완료 항목 일괄 지우기
+- `localStorage`를 이용한 데이터 저장 (새로고침해도 유지)
+- 다크 모드 지원 (`prefers-color-scheme`)
+
+## 실행 방법
+`shopping-list.html` 파일을 브라우저로 열기만 하면 됩니다.
